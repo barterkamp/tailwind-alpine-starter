@@ -1,0 +1,1 @@
+Use **npm run build-css** & **npm run build-js** to watch for tailwind and alpine changes.
